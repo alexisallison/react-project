@@ -6,6 +6,10 @@ function App() {
     <div className="App">
       <h1>Weather Searh Engine</h1>
       <Search />
+      <p>
+        This project is open-sourced on
+        <a href="https://github.com/alexisallison/react-project.git">GitHub</a>
+      </p>
     </div>
   );
 }
